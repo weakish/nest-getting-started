@@ -24,7 +24,7 @@
     "node": "12.x"
   },
   "dependencies": {
-    "@nestjs/cli": "^9.1.5",
+    "@nestjs/cli": "^9.5.0",
     "@nestjs/common": "^9.2.0",
     "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^9.2.1",
