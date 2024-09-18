@@ -28,7 +28,7 @@
     "@nestjs/common": "^9.2.0",
     "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^10.3.7",
-    "@nestjs/platform-fastify": "^9.2.1",
+    "@nestjs/platform-fastify": "^10.4.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
