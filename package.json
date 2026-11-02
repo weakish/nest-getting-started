@@ -32,6 +32,9 @@
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
   },
+  "overrides": {
+    "fastify": "5.12.8"
+  },
   "devDependencies": {
     "@nestjs/schematics": "^11.1.0",
     "@nestjs/testing": "^11.1.9",
